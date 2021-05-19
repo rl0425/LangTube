@@ -1,0 +1,320 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "3qie-o_y285QbfAE4dQOGmEbFTY",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+    },
+    "items": [
+
+      {
+        "id": "music1",
+         "rank": 0,
+        "snippet": {
+          "title": "T-Series",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJyZBQmbGZE0RH4Rzh0my2iSArzhfVgUXY5iU8c1NYA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJyZBQmbGZE0RH4Rzh0my2iSArzhfVgUXY5iU8c1NYA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJyZBQmbGZE0RH4Rzh0my2iSArzhfVgUXY5iU8c1NYA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "T-Series"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "160000000"
+        }
+      },
+
+      {
+        "id": "music2",
+        "rank": 1,
+        "snippet": {
+          "title": "Justin Bieber",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjpa2md8Bfk-LdYllfDdWWdF6CpKebvAlI5NifS6Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjpa2md8Bfk-LdYllfDdWWdF6CpKebvAlI5NifS6Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjpa2md8Bfk-LdYllfDdWWdF6CpKebvAlI5NifS6Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Justin Bieber"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "58600000"
+        }
+      },
+
+      {
+        "id": "music3",
+        "rank": 2,
+        "snippet": {
+          "title": "BLACKPINK",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJwgwcqoiYKn7umZJ1KFC1M2tCjqc_Di3i0d3Ooj7Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJwgwcqoiYKn7umZJ1KFC1M2tCjqc_Di3i0d3Ooj7Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJwgwcqoiYKn7umZJ1KFC1M2tCjqc_Di3i0d3Ooj7Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "BLACKPINK"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "53000000"
+        }
+      },
+
+      {
+        "id": "music4",
+        "rank": 3,
+        "snippet": {
+          "title": "Marshmello",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJymqP8sUGtzihjdWgJYpVF5pRAA5nMHSbEQjM5t4Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJymqP8sUGtzihjdWgJYpVF5pRAA5nMHSbEQjM5t4Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJymqP8sUGtzihjdWgJYpVF5pRAA5nMHSbEQjM5t4Q=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Marshmello"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "49700000"
+        }
+      },
+
+      {
+        "id": "music5",
+        "rank": 4,
+        "snippet": {
+          "title": "Big Hit Labels",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJxBjKTvadXLRjKBIaWrrmKIDTKar0e4eyhj91Bm=s240-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJxBjKTvadXLRjKBIaWrrmKIDTKar0e4eyhj91Bm=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJxBjKTvadXLRjKBIaWrrmKIDTKar0e4eyhj91Bm=s240-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Big Hit Labels"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "46600000"
+        }
+      },
+
+      {
+        "id": "music6",
+        "rank": 5,
+        "snippet": {
+          "title": "Ed Sheeran",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJzDKZRv7njJg2AK7YjrclymZ2z2t5LdUxn5fJsO=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJzDKZRv7njJg2AK7YjrclymZ2z2t5LdUxn5fJsO=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJzDKZRv7njJg2AK7YjrclymZ2z2t5LdUxn5fJsO=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Ed Sheeran"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "46000000"
+        }
+      },
+
+      {
+        "id": "music7",
+        "rank": 6,
+        "snippet": {
+          "title": "Taylor Swift",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJymPwE0-PXbFjcJDrZ9unwi5qXZq3dWLB53ha7nwZw=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJymPwE0-PXbFjcJDrZ9unwi5qXZq3dWLB53ha7nwZw=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJymPwE0-PXbFjcJDrZ9unwi5qXZq3dWLB53ha7nwZw=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Taylor Swift"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "40300000"
+        }
+      },
+
+      {
+        "id": "music8",
+        "rank": 7,
+        "snippet": {
+          "title": "BANGTANTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJxx8seq8TT5Tu50d0owy8R8hskbgY1Pmz4VgnJxjw=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJxx8seq8TT5Tu50d0owy8R8hskbgY1Pmz4VgnJxjw=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJxx8seq8TT5Tu50d0owy8R8hskbgY1Pmz4VgnJxjw=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "BANGTANTV"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "40100000"
+        }
+      },
+
+      {
+        "id": "music9",
+        "rank": 8,
+        "snippet": {
+          "title": "Sony Music India",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/a/AATXAJy5Hk7buP3mjMK1dR050It20HCbZ1jhicb0eIuT2pU=s240-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/a/AATXAJy5Hk7buP3mjMK1dR050It20HCbZ1jhicb0eIuT2pU=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/a/AATXAJy5Hk7buP3mjMK1dR050It20HCbZ1jhicb0eIuT2pU=s240-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Sony Music India"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "40000000"
+        }
+      },
+
+      {
+        "id": "music10",
+        "rank": 9,
+        "snippet": {
+          "title": "Alan Walker",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjsfDHGvv6gR8hvxLhCFyekPe1PK1DyFX4BU1WBOA=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjsfDHGvv6gR8hvxLhCFyekPe1PK1DyFX4BU1WBOA=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AAUvwnjsfDHGvv6gR8hvxLhCFyekPe1PK1DyFX4BU1WBOA=s240-c-k-c0x00ffffff-no-rj-mo",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Alan Walker"
+          }
+        },
+        "statistics": {
+          "subscriberCount": "37200000"
+        }
+      }
+    ]
+  }

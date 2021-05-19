@@ -1,0 +1,817 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/JIwojTYGRW-iB9eFQjYOoxfygiM\"",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#video",
+      "rank": 0,
+      "etag": "ihLSy6R1lgN_bAg7qeeIe_KWqtM",
+      "id": "Nubc09jTW-M",
+      "snippet": {
+        "publishedAt": "2016-04-28",
+        "channelId": "UCNpix5mmVuqhg94qxrsnPtw",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwnj9VV8mr4JmBIJ0IpAQ4GXbN6BHSs_xeWdNDAcUXA=s88-c-k-c0x00ffffff-no-rj",
+        "title": "Amazing!! Animal Saves Another Animal | Animal Heroes (HD)",
+        "description": "Animals, can show mercy?\nThese compilation was created for educational purposes. it show Top 7 Best videos on the Web to some animals we believe they save other animals from imminent death. is intended to illustrate the instinct compassion at animal's  by watching some of its behaviors in this video.\nLife in the wild for animals is often depicted as a unending struggle for survival, where danger lurks at every turn. But playing out alongside those daily life-and-death dramas are lesser-seen moments of apparent compassion - ones that defy easy explanation.\nWhile curiosity or playfulness fit fairly well into models of animal behavior, the idea of helping another species out through a desire to prevent suffering is one that meets plenty of resistance.\nIs the animal sharing the instinct of mercy with human  or all of what we saw in this video is purely coincidental; \nanimal Save Lifes Or Just Playing With Food ?\nPlease Lets us know your opinin and Comments.\n7/                     *BEAR SAVES CROW FROM DROWNING* \nCheck out what this bear did, in a video that was recorded at the Budapest Zoo and posted to YouTube by Aleksander Medveš. Even the crow doesn’t seem to believe it!\na bear pauses his meal to rescue a crow that's drowning in his enclosure.\nSome online commentators have speculated the brown bear, Vali, was planning to eat the crow, but changed her mind. However, it certainly doesn't look like that to us, and indeed the crow makes no effort to get away. Whether Vali's motivation was simple compassion, curiosity or a desire to have something to play with isn't clear. \nthe zoo's website for us. They back the curiosity theory. They add that hooded crows such as this one have been taking over the zoo, stealing meat from the lions and tigers Finally the site notes, \"the crow was lucky to meet Vali instead of the other tenant of the paddock named Defoe, as the latter probably would have had a taste of the black bird.\"\n 6/                        *PIG SAVES GOAT FROM DROWNING*\nAs a New York Times report revealed, the 30-second clip, which went viral after it was posted on YouTube, was artfully staged by the people behind Comedy Central series “Nathan for You.”\nBroadcast on Fox News, NBC’s “Nightly News“ and ABC’s “Good Morning America,” as well as posted on sites like Gawker and The Huffington Post, the video — which has since been seen more than 7 million times — was, in reality, the result of work by animal trainers and several crew members.\n5/             *ORANGUTAN SAVES BABY CHICK FROM DROWNING*\nCathy Smith, from the Orangutan Foundation, said: \"They are very intelligent animals and can be very inquisitive.\n\"This shows how chilled out and good at problem solving these amazing creatures are.\n\"It's hard to say whether he knew he would be saving the chick but you never know. I have never heard of anything like this before.\" \n The curious ape was in its enclosure, when it noticed the bird's struggle in the pond.\nIt yanked a leaf from a nearby bush and extended its arm out to the bird, beckoning to the chick in the hope that it will latch onto the leaf.\nOnlookers cheered as orangutan managed to get the bird to grip the leaf for a split second only to have the bird drop again.\nIn a last-ditch attempt to rescue the chick, the orangutan gently waved the leaf in front of the bird which managed to latch on to it.\nThe ape plucked the bird from the water to the delight of the crowd. During the clip, one woman can be heard exclaiming: \"Oh my God look, that is unbelievable, he's got him.\"\n The massive ape carried the chick back to the main part of its enclosure, where it tenderly placed it down on the grass and proceeded to gently stroke the bird.\n \n4/                       * HIPPO SAVES DEER FROM CROCODILE*\n Hippos saving impala from crocodiles and helping it to safety. \n\"It's hard to say whether hippo knew he would be saving the impala but you never know. I have never heard of anything like this before.\" \n3/                       *BABOON SAVES IMPALA FROM LEOPARD*\nThis is the moment a hungry Cheetah went in for the kill by hanging on to an impala's neck - only for the lucky prey to escape its clutches and spring away to safety.\nThe big cat was seen gripping its paws and front legs around the impala ram in Kruger National Park, South Africa.\nThe Cheetah looked to have secured its meal, holding the animal down on the ground with the help of its powerful jaws.\nBut when a nearby group of baboons caused a commotion, the Impala took its chance and jumped up before bounding away. \n2/                    *HIPPO SAVES ZEBRA FROM CROCODILE*\nHippos save a zebra after crocodile attack As the video shows, the hippos slowly approached the scene and then, incredibly, sprang onto the crocodile, forcing it to release its death grip on the wildebeest. The prey animal took advantage of the situation and escaped—though it appears to have a very badly broken hoof. Sadly, this animal will likely not survive.\nHope you like our compilation,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nubc09jTW-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nubc09jTW-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nubc09jTW-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nubc09jTW-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nubc09jTW-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ANIMALBIOLOGIE",
+        "tags": [
+          "Baboons Save Deer From Leopard",
+          "Hippo Help Deer",
+          "Hippo Saves Zebra From Crocodile",
+          "Bear Saves Crow",
+          "Orangutan Saves Baby Chick",
+          "Pig Saves Goat",
+          "Lioness Saves Baby Calf",
+          "animals saving animals compilation",
+          "Animals Saving",
+          "Animals",
+          "Top",
+          "Best",
+          "Amazing",
+          "animal attacks",
+          "animal fight",
+          "Animal Heroes",
+          "(lesson for humanity)"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Amazing!! Animal Saves Another Animal | Animal Heroes (HD)",
+          "description": "Animals, can show mercy?\nThese compilation was created for educational purposes. it show Top 7 Best videos on the Web to some animals we believe they save other animals from imminent death. is intended to illustrate the instinct compassion at animal's  by watching some of its behaviors in this video.\nLife in the wild for animals is often depicted as a unending struggle for survival, where danger lurks at every turn. But playing out alongside those daily life-and-death dramas are lesser-seen moments of apparent compassion - ones that defy easy explanation.\nWhile curiosity or playfulness fit fairly well into models of animal behavior, the idea of helping another species out through a desire to prevent suffering is one that meets plenty of resistance.\nIs the animal sharing the instinct of mercy with human  or all of what we saw in this video is purely coincidental; \nanimal Save Lifes Or Just Playing With Food ?\nPlease Lets us know your opinin and Comments.\n7/                     *BEAR SAVES CROW FROM DROWNING* \nCheck out what this bear did, in a video that was recorded at the Budapest Zoo and posted to YouTube by Aleksander Medveš. Even the crow doesn’t seem to believe it!\na bear pauses his meal to rescue a crow that's drowning in his enclosure.\nSome online commentators have speculated the brown bear, Vali, was planning to eat the crow, but changed her mind. However, it certainly doesn't look like that to us, and indeed the crow makes no effort to get away. Whether Vali's motivation was simple compassion, curiosity or a desire to have something to play with isn't clear. \nthe zoo's website for us. They back the curiosity theory. They add that hooded crows such as this one have been taking over the zoo, stealing meat from the lions and tigers Finally the site notes, \"the crow was lucky to meet Vali instead of the other tenant of the paddock named Defoe, as the latter probably would have had a taste of the black bird.\"\n 6/                        *PIG SAVES GOAT FROM DROWNING*\nAs a New York Times report revealed, the 30-second clip, which went viral after it was posted on YouTube, was artfully staged by the people behind Comedy Central series “Nathan for You.”\nBroadcast on Fox News, NBC’s “Nightly News“ and ABC’s “Good Morning America,” as well as posted on sites like Gawker and The Huffington Post, the video — which has since been seen more than 7 million times — was, in reality, the result of work by animal trainers and several crew members.\n5/             *ORANGUTAN SAVES BABY CHICK FROM DROWNING*\nCathy Smith, from the Orangutan Foundation, said: \"They are very intelligent animals and can be very inquisitive.\n\"This shows how chilled out and good at problem solving these amazing creatures are.\n\"It's hard to say whether he knew he would be saving the chick but you never know. I have never heard of anything like this before.\" \n The curious ape was in its enclosure, when it noticed the bird's struggle in the pond.\nIt yanked a leaf from a nearby bush and extended its arm out to the bird, beckoning to the chick in the hope that it will latch onto the leaf.\nOnlookers cheered as orangutan managed to get the bird to grip the leaf for a split second only to have the bird drop again.\nIn a last-ditch attempt to rescue the chick, the orangutan gently waved the leaf in front of the bird which managed to latch on to it.\nThe ape plucked the bird from the water to the delight of the crowd. During the clip, one woman can be heard exclaiming: \"Oh my God look, that is unbelievable, he's got him.\"\n The massive ape carried the chick back to the main part of its enclosure, where it tenderly placed it down on the grass and proceeded to gently stroke the bird.\n \n4/                       * HIPPO SAVES DEER FROM CROCODILE*\n Hippos saving impala from crocodiles and helping it to safety. \n\"It's hard to say whether hippo knew he would be saving the impala but you never know. I have never heard of anything like this before.\" \n3/                       *BABOON SAVES IMPALA FROM LEOPARD*\nThis is the moment a hungry Cheetah went in for the kill by hanging on to an impala's neck - only for the lucky prey to escape its clutches and spring away to safety.\nThe big cat was seen gripping its paws and front legs around the impala ram in Kruger National Park, South Africa.\nThe Cheetah looked to have secured its meal, holding the animal down on the ground with the help of its powerful jaws.\nBut when a nearby group of baboons caused a commotion, the Impala took its chance and jumped up before bounding away. \n2/                    *HIPPO SAVES ZEBRA FROM CROCODILE*\nHippos save a zebra after crocodile attack As the video shows, the hippos slowly approached the scene and then, incredibly, sprang onto the crocodile, forcing it to release its death grip on the wildebeest. The prey animal took advantage of the situation and escaped—though it appears to have a very badly broken hoof. Sadly, this animal will likely not survive.\nHope you like our compilation,"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "90373255",
+        "likeCount": "609797"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "c1y3A_kBN4LWGl6H-nHeQ3-S8hU",
+      "rank": 1,
+      "id": "NGC8IS4gjpM",
+      "snippet": {
+        "publishedAt": "2018-12-25",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwni0xmw1XkZw5mAaWGsdEZCCj-pSo_jg7aNqfZSp=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UC4cHAlpO0Aaib0KUnFxTX2g",
+        "title": "Cute baby animals Videos Compilation cute moment of the animals - Cutest Animals #3",
+        "description": "👏🏻Thanks for watching and hope you enjoyed episode #3 of our cute baby animals compilation 👍🏻\n\n😍Watch more of the cutest animals: https://youtube.com/playlist?list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX\nCredit : \nfurballsinc : https://www.instagram.com/furballsinc/\n\n🐼 Subscribe to watch more cute pet videos! https://youtube.com/channel/UC4cHAlpO0Aaib0KUnFxTX2g\n\n▶Note: All of these videos are used with permission from the original video owner or used under agreement from our licensing partners. For any inquiries, please email: youtube@cutestanimals.world\n\n#Animals #Cute #Dogs #Cats #Babies #Adorable",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NGC8IS4gjpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NGC8IS4gjpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NGC8IS4gjpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NGC8IS4gjpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NGC8IS4gjpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cutest Animals",
+        "tags": [
+          "Funny",
+          "videos",
+          "video",
+          "compilation",
+          "dogs",
+          "puppy",
+          "horse",
+          "cute animals",
+          "cute",
+          "funny dogs",
+          "funny dog",
+          "funny puppy",
+          "cute puppy",
+          "horse videos",
+          "cute moment of the horses",
+          "baby animals",
+          "cute baby animals",
+          "cute animal videos",
+          "baby videos",
+          "cute videos",
+          "animal videos",
+          "cute animal",
+          "animals video",
+          "baby animals for kids",
+          "animal videos for children",
+          "for kids",
+          "for children",
+          "kids",
+          "cute baby video",
+          "cub",
+          "puppies",
+          "small",
+          "newborn"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cute baby animals Videos Compilation cute moment of the animals - Cutest Animals #3",
+          "description": "👏🏻Thanks for watching and hope you enjoyed episode #3 of our cute baby animals compilation 👍🏻\n\n😍Watch more of the cutest animals: https://youtube.com/playlist?list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX\nCredit : \nfurballsinc : https://www.instagram.com/furballsinc/\n\n🐼 Subscribe to watch more cute pet videos! https://youtube.com/channel/UC4cHAlpO0Aaib0KUnFxTX2g\n\n▶Note: All of these videos are used with permission from the original video owner or used under agreement from our licensing partners. For any inquiries, please email: youtube@cutestanimals.world\n\n#Animals #Cute #Dogs #Cats #Babies #Adorable"
+        }
+      },
+      "statistics": {
+        "viewCount": "47825764",
+        "likeCount": "332979"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "bze-iHH0uoZFhOZC6qR3WR3Wq0M",
+      "rank": 2,
+      "id": "RQkWvoES_uQ",
+      "snippet": {
+        "publishedAt": "2020-08-01",
+        "channelId": "UCXbzirbkybMpRJ8TgidMeuQ",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwnh3kieDJMTk8mStjkeaSkGHQNJbgVJ7IDxsyOjm=s88-c-k-c0x00ffffff-no-rj",
+        "title": "AWW Animals SOO Cute! Cute baby animals Videos Compilation cute moment of the animals #7",
+        "description": "😍Watch more cute animals! https://youtube.com/playlist?list=PL4kqg9GsbL8kZ1jX__2NXhpQdg3axRo7g\n\n🐶 Subscribe to Funniest Animals for more adorable animal videos! https://youtube.com/c/FunniestAnimals\n\nMusic licensed or used from Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0 \ncreativecommons.org/licenses/by/3.0/\n\n#Animals #Cute #Dogs #Cats #Babies #Adorable",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RQkWvoES_uQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RQkWvoES_uQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQkWvoES_uQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RQkWvoES_uQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RQkWvoES_uQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Funniest Animals",
+        "tags": [
+          "Funny",
+          "videos",
+          "video",
+          "compilation",
+          "dogs",
+          "puppy",
+          "cute animals",
+          "cute",
+          "funny dogs",
+          "funny dog",
+          "funny puppy",
+          "cute puppy",
+          "cute moment of the horses",
+          "baby animals",
+          "cute baby animals",
+          "cute animal videos",
+          "baby videos",
+          "cute videos",
+          "animal videos",
+          "cute animal",
+          "animals video",
+          "baby animals for kids",
+          "animal videos for children",
+          "for kids",
+          "for children",
+          "kids",
+          "cute baby video",
+          "puppies",
+          "small",
+          "Cutest animals",
+          "cute cats",
+          "funny cats",
+          "cute animal videos compilation",
+          "cute babies",
+          "cat",
+          "Funniest Animals"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AWW Animals SOO Cute! Cute baby animals Videos Compilation cute moment of the animals #7",
+          "description": "😍Watch more cute animals! https://youtube.com/playlist?list=PL4kqg9GsbL8kZ1jX__2NXhpQdg3axRo7g\n\n🐶 Subscribe to Funniest Animals for more adorable animal videos! https://youtube.com/c/FunniestAnimals\n\nMusic licensed or used from Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0 \ncreativecommons.org/licenses/by/3.0/\n\n#Animals #Cute #Dogs #Cats #Babies #Adorable"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "37476155",
+        "likeCount": "460215"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "rank": 3,
+      "etag": "n1akmevgOdrU-sh4Xx6UeIQ1prU",
+      "id": "YCvzPBUPZ9w",
+      "snippet": {
+        "publishedAt": "2018-09-01",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJyCVGO0ndy_bsrexliuX9dnUHuX3Omj6RlSgjni=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCWTne1O4kFlrDqhM2Ikw90g",
+        "title": "Animal Sounds for Children (20 Amazing Animals)",
+        "description": "Have a look at our ‘I Love Animals’ videos for kids https://www.youtube.com/watch?v=VG43l_53A3o&list=PLOsQeYcsc0VwgpFlOn1ha0xuvCzPZrTRb\nThis video features 20 animal sounds for children. It will help kids learn the names, sounds and images of animals found in a zoo, farm, the wild and at home. \n\nThis animal sounds for kids video features the following animals:\n\n1)   Cat\n2)   Dog\n3)   Cow\n4)   Chicken\n5)   Sheep\n6)   Horse\n7)   Pig\n8)   Donkey\n9)   Cockerel\n10) Duck\n11) Goat\n12) Chick\n13) Frog\n14) Lion\n15) Monkey\n16) Polar Bear\n17) Tiger\n18) Elephant\n19) Bear\n20) Wolf\n\n#animalsounds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YCvzPBUPZ9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YCvzPBUPZ9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YCvzPBUPZ9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YCvzPBUPZ9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YCvzPBUPZ9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Art",
+        "tags": [
+          "animal sounds",
+          "animal sounds for kids",
+          "animal sounds for children",
+          "funny animal sounds",
+          "animal sound effects",
+          "wild animal sounds",
+          "farm animal sounds",
+          "animals",
+          "Dogs",
+          "Cats",
+          "Chicken (Animal)",
+          "Sheep (Domesticated Animal)",
+          "Horse (Domesticated Animal)",
+          "Pig (Animal)",
+          "Duck (Animal)",
+          "Lion (Animal)",
+          "Monkey (Animal)",
+          "Tiger (Animal)",
+          "Polar Bear (Animal)",
+          "elephant",
+          "Frog (Animal)",
+          "Bear (Animal)",
+          "animal family",
+          "videos for kids",
+          "videos for babies",
+          "Animal (Film Character)",
+          "Pets"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Animal Sounds for Children (20 Amazing Animals)",
+          "description": "Have a look at our ‘I Love Animals’ videos for kids https://www.youtube.com/watch?v=VG43l_53A3o&list=PLOsQeYcsc0VwgpFlOn1ha0xuvCzPZrTRb\nThis video features 20 animal sounds for children. It will help kids learn the names, sounds and images of animals found in a zoo, farm, the wild and at home. \n\nThis animal sounds for kids video features the following animals:\n\n1)   Cat\n2)   Dog\n3)   Cow\n4)   Chicken\n5)   Sheep\n6)   Horse\n7)   Pig\n8)   Donkey\n9)   Cockerel\n10) Duck\n11) Goat\n12) Chick\n13) Frog\n14) Lion\n15) Monkey\n16) Polar Bear\n17) Tiger\n18) Elephant\n19) Bear\n20) Wolf\n\n#animalsounds"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "37192319",
+        "likeCount": "137295"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "eNwBfQfXo8f6EfarSRWDir5JEeU",
+      "rank": 4,
+      "id": "LuZmG3oMjEw",
+      "snippet": {
+        "publishedAt": "2020-06-13",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwnh3kieDJMTk8mStjkeaSkGHQNJbgVJ7IDxsyOjm=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCXbzirbkybMpRJ8TgidMeuQ",
+        "title": "Animals SOO Cute! Cute baby animals Videos Compilation cutest moment of the animals #9",
+        "description": "😍Watch more cute animals! https://youtube.com/playlist?list=PL4kqg9GsbL8kZ1jX__2NXhpQdg3axRo7g\n\n🐶 Subscribe to Funniest Animals for more adorable animal videos! https://youtube.com/c/FunniestAnimals\n\nMusic licensed or used from Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0 \ncreativecommons.org/licenses/by/3.0/\n\n#Animals #Cute #Dogs #Cats #Babies #Adorable",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LuZmG3oMjEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LuZmG3oMjEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LuZmG3oMjEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LuZmG3oMjEw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LuZmG3oMjEw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Funniest Animals",
+        "tags": [
+          "Funny",
+          "videos",
+          "video",
+          "compilation",
+          "dogs",
+          "puppy",
+          "cute animals",
+          "cute",
+          "funny dogs",
+          "funny dog",
+          "funny puppy",
+          "cute puppy",
+          "cute moment of the horses",
+          "baby animals",
+          "cute baby animals",
+          "cute animal videos",
+          "baby videos",
+          "cute videos",
+          "animal videos",
+          "cute animal",
+          "animals video",
+          "baby animals for kids",
+          "animal videos for children",
+          "for kids",
+          "for children",
+          "kids",
+          "cute baby video",
+          "puppies",
+          "small",
+          "Cutest animals",
+          "cute cats",
+          "funny cats",
+          "cute animal videos compilation",
+          "cute babies",
+          "cat",
+          "Funniest Animals"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Animals SOO Cute! Cute baby animals Videos Compilation cutest moment of the animals #9",
+          "description": "😍Watch more cute animals! https://youtube.com/playlist?list=PL4kqg9GsbL8kZ1jX__2NXhpQdg3axRo7g\n\n🐶 Subscribe to Funniest Animals for more adorable animal videos! https://youtube.com/c/FunniestAnimals\n\nMusic licensed or used from Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0 \ncreativecommons.org/licenses/by/3.0/\n\n#Animals #Cute #Dogs #Cats #Babies #Adorable"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "33804660",
+        "likeCount": "347397"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "xK6ucbrtTcQ6aIuEHb7LfUpLjag",
+      "rank": 5,
+      "id": "CgvUney-Vok",
+      "snippet": {
+        "publishedAt": "2019-12-18",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJzNMiIEKGtsUQHWpWEok3EZk-hMh_klAX9MHk3U=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UC8hC-augAnujJeprhjI0YkA",
+        "title": "Baby Dogs - Cute and Funny Dog Videos Compilation #9 | Aww Animals",
+        "description": "Watching funny baby dogs is the hardest try not to laugh challenge. Baby dogs are amazing pets because they are the cutest and most funny. This is the cutest and best video ever. It is funny and cute!\r \n\nHope you like our funny compilation and don't forget to SUBSCRIBE us and share with your friends! \n👉Subscribe for new video: https://www.youtube.com/channel/UC8hC-augAnujJeprhjI0YkA \r\n\n#babydog #funnydog #aww #animals #cutedog \n---------------------------------------------------------------------------------------------------\nThe featured clips in our video are used with permission from the original video owners. The highlight clips can be done by our fans! \n\nIf you see a clip that you own that you did not submit or give consent for use, we have likely received false permissions and would be happy to resolve this for you! Please drop us a line at http://bit.ly/AwwAnimals \n\n►►►►►►►►► THANKS FOR WATCHING◄◄◄◄◄◄◄◄◄\n► AND DON'T FORGET TO LIKE COMMENTS AND SUBSCRIBE! ◄",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CgvUney-Vok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CgvUney-Vok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CgvUney-Vok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aww Animals",
+        "tags": [
+          "baby dog",
+          "baby dogs",
+          "dog baby",
+          "cute dog",
+          "cute dogs",
+          "funny dog",
+          "funny dogs",
+          "dog compilation",
+          "dog videos",
+          "funny videos",
+          "cute videos",
+          "funny animals",
+          "cute animals",
+          "baby animals",
+          "animal videos",
+          "funny compilation",
+          "cute compilation",
+          "animal compilation",
+          "aww animals",
+          "cute baby dogs",
+          "funny baby dogs",
+          "baby animal videos"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Baby Dogs - Cute and Funny Dog Videos Compilation #9 | Aww Animals",
+          "description": "Watching funny baby dogs is the hardest try not to laugh challenge. Baby dogs are amazing pets because they are the cutest and most funny. This is the cutest and best video ever. It is funny and cute!\r \n\nHope you like our funny compilation and don't forget to SUBSCRIBE us and share with your friends! \n👉Subscribe for new video: https://www.youtube.com/channel/UC8hC-augAnujJeprhjI0YkA \r\n\n#babydog #funnydog #aww #animals #cutedog \n---------------------------------------------------------------------------------------------------\nThe featured clips in our video are used with permission from the original video owners. The highlight clips can be done by our fans! \n\nIf you see a clip that you own that you did not submit or give consent for use, we have likely received false permissions and would be happy to resolve this for you! Please drop us a line at http://bit.ly/AwwAnimals \n\n►►►►►►►►► THANKS FOR WATCHING◄◄◄◄◄◄◄◄◄\n► AND DON'T FORGET TO LIKE COMMENTS AND SUBSCRIBE! ◄"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "32802790",
+        "likeCount": "255342"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "rank": 6,
+      "etag": "9YCD74JUxlrbNR4Fs28M1kbHDq4",
+      "id": "vdTdvsUpr4I",
+      "snippet": {
+        "publishedAt": "2020-09-08",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJxT0s8JEmbA8exyZChFRjbHvf_AK0_sMqe2zQqI=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCL4r3zHKJpcJ0jEYSbobk1Q",
+        "title": "경찰 정말 애완 동물을 갖고 싶어",
+        "description": "지금 구독해서 신나는 이야기하나도 놓치지 마세요: https://is.gd/bsJ59K\n\n경찰 정말 애완 동물을 갖고 싶어\n\n#BIBO와장난감 ★ 모든 이야기: https://bit.ly/30R1FLU\n\n재밌게 시청해주세요! 감사합니다!\n\nhttps://www.facebook.com/BIBOTOYSTUDIO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vdTdvsUpr4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vdTdvsUpr4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vdTdvsUpr4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vdTdvsUpr4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vdTdvsUpr4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BIBO와 장난감",
+        "tags": [
+          "bibo",
+          "toys",
+          "cops",
+          "animals",
+          "경찰차",
+          "경찰",
+          "애완 동물",
+          "동물",
+          "이야기"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "경찰 정말 애완 동물을 갖고 싶어",
+          "description": "지금 구독해서 신나는 이야기하나도 놓치지 마세요: https://is.gd/bsJ59K\n\n경찰 정말 애완 동물을 갖고 싶어\n\n#BIBO와장난감 ★ 모든 이야기: https://bit.ly/30R1FLU\n\n재밌게 시청해주세요! 감사합니다!\n\nhttps://www.facebook.com/BIBOTOYSTUDIO"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "statistics": {
+        "viewCount": "28034790"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "rank": 7,
+      "etag": "uTHm93sFcv0jz8C6gNwpdaUcS5o",
+      "id": "ZEOTMN8ZwyE",
+      "snippet": {
+        "publishedAt": "2019-03-30",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwnh3kieDJMTk8mStjkeaSkGHQNJbgVJ7IDxsyOjm=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCXbzirbkybMpRJ8TgidMeuQ",
+        "title": "Cutest Animals! Cute baby animals Videos Compilation cute moment of the animals #7",
+        "description": "😍Watch more cute animals! https://youtube.com/playlist?list=PL4kqg9GsbL8kZ1jX__2NXhpQdg3axRo7g\n\n🔔 Subscribe to Funniest Animals for more adorable animal videos! https://youtube.com/channel/UCXbzirbkybMpRJ8TgidMeuQ\n\n🐶Do you have a cute or funny animal you want to see featured in our next compilation? Submit your video by going to this link! https://forms.gle/PwZRY2eqdX22CwaV8\n\nMusic used from Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0 \nhttps://creativecommons.org/licenses/by/3.0/\n\n▶Note: All of these videos are licensed and used with permission from the original video owner. For any copyright inquiries, please contact us ✉: youtube@cutestanimals.world\n\n#Animals #Cute #Cutest",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZEOTMN8ZwyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZEOTMN8ZwyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZEOTMN8ZwyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZEOTMN8ZwyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZEOTMN8ZwyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Funniest Animals",
+        "tags": [
+          "Funny",
+          "videos",
+          "video",
+          "compilation",
+          "dogs",
+          "puppy",
+          "cute animals",
+          "cute",
+          "funny dogs",
+          "funny dog",
+          "funny puppy",
+          "cute puppy",
+          "cute moment of the horses",
+          "baby animals",
+          "cute baby animals",
+          "cute animal videos",
+          "baby videos",
+          "cute videos",
+          "animal videos",
+          "cute animal",
+          "animals video",
+          "baby animals for kids",
+          "animal videos for children",
+          "for kids",
+          "for children",
+          "kids",
+          "cute baby video",
+          "puppies",
+          "small",
+          "Cutest animals"
+        ],
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cutest Animals! Cute baby animals Videos Compilation cute moment of the animals #7",
+          "description": "😍Watch more cute animals! https://youtube.com/playlist?list=PL4kqg9GsbL8kZ1jX__2NXhpQdg3axRo7g\n\n🔔 Subscribe to Funniest Animals for more adorable animal videos! https://youtube.com/channel/UCXbzirbkybMpRJ8TgidMeuQ\n\n🐶Do you have a cute or funny animal you want to see featured in our next compilation? Submit your video by going to this link! https://forms.gle/PwZRY2eqdX22CwaV8\n\nMusic used from Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0 \nhttps://creativecommons.org/licenses/by/3.0/\n\n▶Note: All of these videos are licensed and used with permission from the original video owner. For any copyright inquiries, please contact us ✉: youtube@cutestanimals.world\n\n#Animals #Cute #Cutest"
+        }
+      },
+      "statistics": {
+        "viewCount": "27834965",
+        "likeCount": "262714"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "IwZjCcZCDXJcAlq-jqApWZjJp-8",
+      "rank": 8,
+      "id": "Q9JJyfnbY6g",
+      "snippet": {
+        "publishedAt": "2018-03-26",
+        "channelId": "UCFU1IubzLAHnoPA8uRt-SMA",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJwo5uORvXnEtN6Z47hJUifjdmN8j7_64eN0LRbM=s88-c-k-c0x00ffffff-no-rj",
+        "title": "Animals for Kids to Learn - 100 Animals for Kids, Toddlers and Babies in English | Educational Video",
+        "description": "Animals for Kids to Learn. Here is an educational video of 100 Animals for kids, toddlers and babies in English.Subscribe to Kiddopedia channel for more animal names videos for children → https://goo.gl/O1jdcO\n\nWe are bringing you videos of 100 different animals to learn their names in English as well as the animal sounds. Only real animal videos in HD quality are used in this video with real animal sounds. Learning animals names correctly is very important for the early development of children. Animal names are spoken out with a native British English accent. This will help your kids to learn the sounds and names of animals correctly. Animal sounds in combination with animal videos are a perfect way for kids, toddlers, and kindergarten children to learn animal names. \n\nKiddopedia channel is the right place if you are looking for educational videos for toddlers & kids at preschool age. \n\nSUBSCRIBE → https://goo.gl/O1jdcO\nCheck out our website → http://kiddopedia.net\nLike us on Facebook → https://www.facebook.com/KiddopediaTV/\nFollow us on Instagram → https://www.instagram.com/kiddopedia\nFollow us on Twitter → https://twitter.com/kiddopedia\n\nList of 100 Animals in this Video:\nDog\nHorse\nCat\nBear\nElephant\nSheep\nLion\nPig\nMonkey\nWolf\nRabbit\nDuck\nDeer\nCow\nKangaroo\npenguin\nGiraffe\nTiger\nTurkey\ndolphin\nDonkey\nCheetah\nHen\nKoala\nshark\nSquirrel\nZebra\nTurtle\nFox\nmouse\nPolar Bear\nRhinoceros\nRooster\nGoat\nGoose\nCamel\noctopus\nparrot\nFrog\nChimpanzee\nBison\nhamster\nHippopotamus\nLeopard\nMeerkat\nLlama\nSnake\nOwl\nOrangutan\nalligator\nBeaver\nOstrich\nHyena\nPanda\nGorilla\nlobster\nRam\nseal\nCoyote\nbald eagle\nSloth\nCougar\nhummingbird\ngrizzly bear\nHedhehog\niguana\nmuskox\nsea turtle\nGazelle\nBaboon\nAfrican buffalo\nchameleon\nCrocodile\ngoldfish\nJackal\ntoucan\nMoose\nwhale\nSnow Leopard\nSkunk\nanteater\ncanary\nAlpaca\nLemur\nOtter\nseahorse\nRaccoon\nWeasel, \ntapir\nrat\nstarfish\nreindeer\nChipmunk\nArmadillo\nguinea pig\ncrab\nLynx\nwalrus\nGuinea Fowl\nBonobo\n\nWatch more videos on Kiddopedia Channel:\nBird Sounds → https://youtu.be/mfFldO-B8vE\nMusical Instruments → https://youtu.be/_Ns9wBGokEM\nBreeds of Dogs → https://youtu.be/EKG89O05K5A \nGiraffes for Kids → https://youtu.be/AIOsAHWipjA\nTractors for Kids → https://youtu.be/xtipDieUPvc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q9JJyfnbY6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q9JJyfnbY6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q9JJyfnbY6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q9JJyfnbY6g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q9JJyfnbY6g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kiddopedia",
+        "tags": [
+          "animals for kids",
+          "animals for kids to learn",
+          "animals for toddlers",
+          "animals for babies",
+          "animals for children",
+          "animals for toddlers to learn",
+          "animals for babies to learn",
+          "animals for children to learn",
+          "animals for kids video",
+          "100 animals",
+          "100 animals for kids",
+          "animals for kids english",
+          "animals for kids educational",
+          "animals sounds",
+          "animal names english",
+          "kiddopedia",
+          "animals for kids learning",
+          "educational video",
+          "educational video for kids",
+          "learn animals",
+          "100 animals to learn"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Animals for Kids to Learn - 100 Animals for Kids, Toddlers and Babies in English | Educational Video",
+          "description": "Animals for Kids to Learn. Here is an educational video of 100 Animals for kids, toddlers and babies in English.Subscribe to Kiddopedia channel for more animal names videos for children → https://goo.gl/O1jdcO\n\nWe are bringing you videos of 100 different animals to learn their names in English as well as the animal sounds. Only real animal videos in HD quality are used in this video with real animal sounds. Learning animals names correctly is very important for the early development of children. Animal names are spoken out with a native British English accent. This will help your kids to learn the sounds and names of animals correctly. Animal sounds in combination with animal videos are a perfect way for kids, toddlers, and kindergarten children to learn animal names. \n\nKiddopedia channel is the right place if you are looking for educational videos for toddlers & kids at preschool age. \n\nSUBSCRIBE → https://goo.gl/O1jdcO\nCheck out our website → http://kiddopedia.net\nLike us on Facebook → https://www.facebook.com/KiddopediaTV/\nFollow us on Instagram → https://www.instagram.com/kiddopedia\nFollow us on Twitter → https://twitter.com/kiddopedia\n\nList of 100 Animals in this Video:\nDog\nHorse\nCat\nBear\nElephant\nSheep\nLion\nPig\nMonkey\nWolf\nRabbit\nDuck\nDeer\nCow\nKangaroo\npenguin\nGiraffe\nTiger\nTurkey\ndolphin\nDonkey\nCheetah\nHen\nKoala\nshark\nSquirrel\nZebra\nTurtle\nFox\nmouse\nPolar Bear\nRhinoceros\nRooster\nGoat\nGoose\nCamel\noctopus\nparrot\nFrog\nChimpanzee\nBison\nhamster\nHippopotamus\nLeopard\nMeerkat\nLlama\nSnake\nOwl\nOrangutan\nalligator\nBeaver\nOstrich\nHyena\nPanda\nGorilla\nlobster\nRam\nseal\nCoyote\nbald eagle\nSloth\nCougar\nhummingbird\ngrizzly bear\nHedhehog\niguana\nmuskox\nsea turtle\nGazelle\nBaboon\nAfrican buffalo\nchameleon\nCrocodile\ngoldfish\nJackal\ntoucan\nMoose\nwhale\nSnow Leopard\nSkunk\nanteater\ncanary\nAlpaca\nLemur\nOtter\nseahorse\nRaccoon\nWeasel, \ntapir\nrat\nstarfish\nreindeer\nChipmunk\nArmadillo\nguinea pig\ncrab\nLynx\nwalrus\nGuinea Fowl\nBonobo\n\nWatch more videos on Kiddopedia Channel:\nBird Sounds → https://youtu.be/mfFldO-B8vE\nMusical Instruments → https://youtu.be/_Ns9wBGokEM\nBreeds of Dogs → https://youtu.be/EKG89O05K5A \nGiraffes for Kids → https://youtu.be/AIOsAHWipjA\nTractors for Kids → https://youtu.be/xtipDieUPvc"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "20779739",
+        "likeCount": "59389"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "BU0uEXwSjitGVhnVT6ub1QLRk5w",
+      "rank": 9,
+      "id": "KDVtxitDfnI",
+      "snippet": {
+        "publishedAt": "2018-05-04",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJy4bEknIT_ncE2SGGwVkPa5F7j5yN4-KZ-UrSVNKQ=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCrKIAVMSxnxRtasrtUdHfAg",
+        "title": "14 CRAZIEST Animal Fights Caught On Camera",
+        "description": "Top 10 Crazy Epic Wild Animal Fights Caught on Film\nI finally launched merch! 👕 🎉 use code \"420\" for 20% off: https://bit.ly/JakesTop10Merch\n😃 SUBSCRIBE FOR MORE ► https://goo.gl/JcGwWb\n\nFeaturing:\nLion vs Crocodile\nSnake vs Bunny Rabbit\nGiraffe vs Lion\nSnake vs Mongoose\nShark vs Octopus\nLion vs Buffalo\nBadger vs Fox\nLeopard vs Lion\nSnake vs Crocodile\nIguana vs Iguanna\nBison vs Lion\nCrocodile vs Wild Boar\nEagle vs Fox\nSquirrel vs Cobra vs Mongoose\nLion vs Tiger\n\n★ Watch another video! \"16 Funniest Animals Scaring People Reactions! (Funny Videos Caught On Camera)\" ► https://www.youtube.com/watch?v=d3zZK4m1ubU\n\nSUBSCRIBE AND TURN ON MY POST NOTIFICATIONS TO BE NOTIFIED WHEN I POST NEW FUNNY VIDEOS!\n\nFrom cobra vs mongoose to lion vs tiger we countdown the top 14 biggest animal fights caught on camera. Shocking fight, between a giraffe and a lion in the plains of Africa, most would assume that the giraffe would be defeated easily by the king of the jungle. However, this is no jungle and the giraffe manages to use its long legs and high jumps to stomp the lion repeatedly, causing the giraffe to win the fight. In this amazing video, two rather small but deadly animals go head to head. The cobra and mongoose take shots at each other respectively. Until the mongoose gets a firm bite on the head of the poisonous snake, and making itself the unexpected winner. In this fight in the Australian outback, a giant snake and a crocodile take each other on. At first the crocodile grabs the snake between its teeth. The python snake then coils itself around the crocodile, and strangling it. The fight lasted for hours, but the snake emerges victorious. In this shocking fight, a jaguar slowly emerges behind an exacting crocodile in the wetlands of Brazil. The jaguar sinks it teeth into the back of the crocodile in order to constrict the crocodile. The jaguar then carries off its prey, after the destruction it has just caused to the crocodile. In this video, a cobra snake has just discovered a nest of mongooses. As it plots to sliver in, a mongoose uses a tunnel to sneak up behind the snake a strike. The mongoose bites the snake in the head and they begin attacking each other. The snake then wraps up the mongoose in an attempt to strangle it. However, the mongoose frees itself, and begins to take painful bites at the cobra, eventually killing it. In this video, a shark is peacefully swimming through ocean territory. However, it’s swim is interrupted when an octopus disguised as coral rises up and wraps its tentacles around the shark. The giant pacific octopus was able to easily defeat the shark in this unlikely match up, despite the octopus being far lower down in the food chain. During this animal fight between an hyena and a pack of lions, the hyena uses their amazing dexterity to run quickly away from the lion pack. However, the hyena was soon caught up to by the pack, as they surround it and begin to bite it. In this unlikely match-up, a cobra and an eagle to head to head. The eagle tries to use its size to stand and peck at the cobra. But the cobra fights back attempting to bite back. However, on one bite when the cobra’s mouth is open, the eagle strikes and bites the cobra in the mouth. In this wild battle, recorded deep in the jungle a tiger and a huge lion go head to head. The pair spend hours wrestling and biting one another to see who the real king of the jungle is. When suddenly the tiger rolls over in defeat, after hours of fighting with the massive lion. In this shocking piece of footage from South Africa, a lion who is attacking a buffalo is suddenly changed at by 2 other buffalos. The lion is the launched 4 meters into the air by the giant male buffalo. The animals scuffled for a little while longer, but all walked away with no major injuries. Despite this, we think it’s pretty safe to say that the buffalo won this round.\n\nCHECK OUT MY VLOG CHANNEL ► https://www.youtube.com/JakeBrowatzkeVlogs\n\n*FOLLOW ME ON SOCIAL MEDIA! * (@JakeBrowatzke)\nTwitter  ► https://twitter.com/JakeBrowatzke\nInstagram ► https://www.instagram.com/JakeBrowatzke\nFacebook ► https://www.facebook.com/JakesTop10\n\n♫Music By♫\nEpidemic Sound\n\nSEE YOU AGAIN NEXT FUNNY OR CRAZY TOP 10!!\n\n--------------------------------------------------------------------------\n*This video was created for educational purposes and is family friendly.\n---------------------------------------------------------------------------\nCopyright Disclaimer:\nUnder Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KDVtxitDfnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KDVtxitDfnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KDVtxitDfnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jake's Top 10",
+        "tags": [
+          "top10",
+          "viral",
+          "list",
+          "animals",
+          "animal fights",
+          "pets",
+          "top 10",
+          "snake",
+          "big",
+          "crocodile",
+          "amazing",
+          "nature",
+          "snakes",
+          "crazy",
+          "cobra",
+          "biggest fights",
+          "tiger",
+          "lion",
+          "wildlife",
+          "mongoose",
+          "tiger attack",
+          "lion attack",
+          "shark attack",
+          "crocodile attack",
+          "epic",
+          "animal fights lion vs tiger",
+          "animal fights hd",
+          "animal fights compilation",
+          "animal fights caught on tape",
+          "biggest animal fights",
+          "vs",
+          "animal",
+          "elephant",
+          "leopard",
+          "wild",
+          "buffalo",
+          "2018",
+          "animal attacks",
+          "attack",
+          "fight",
+          "animal attack",
+          "animal fights caught on camera",
+          "anaconda",
+          "best of"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "14 CRAZIEST Animal Fights Caught On Camera",
+          "description": "Top 10 Crazy Epic Wild Animal Fights Caught on Film\nI finally launched merch! 👕 🎉 use code \"420\" for 20% off: https://bit.ly/JakesTop10Merch\n😃 SUBSCRIBE FOR MORE ► https://goo.gl/JcGwWb\n\nFeaturing:\nLion vs Crocodile\nSnake vs Bunny Rabbit\nGiraffe vs Lion\nSnake vs Mongoose\nShark vs Octopus\nLion vs Buffalo\nBadger vs Fox\nLeopard vs Lion\nSnake vs Crocodile\nIguana vs Iguanna\nBison vs Lion\nCrocodile vs Wild Boar\nEagle vs Fox\nSquirrel vs Cobra vs Mongoose\nLion vs Tiger\n\n★ Watch another video! \"16 Funniest Animals Scaring People Reactions! (Funny Videos Caught On Camera)\" ► https://www.youtube.com/watch?v=d3zZK4m1ubU\n\nSUBSCRIBE AND TURN ON MY POST NOTIFICATIONS TO BE NOTIFIED WHEN I POST NEW FUNNY VIDEOS!\n\nFrom cobra vs mongoose to lion vs tiger we countdown the top 14 biggest animal fights caught on camera. Shocking fight, between a giraffe and a lion in the plains of Africa, most would assume that the giraffe would be defeated easily by the king of the jungle. However, this is no jungle and the giraffe manages to use its long legs and high jumps to stomp the lion repeatedly, causing the giraffe to win the fight. In this amazing video, two rather small but deadly animals go head to head. The cobra and mongoose take shots at each other respectively. Until the mongoose gets a firm bite on the head of the poisonous snake, and making itself the unexpected winner. In this fight in the Australian outback, a giant snake and a crocodile take each other on. At first the crocodile grabs the snake between its teeth. The python snake then coils itself around the crocodile, and strangling it. The fight lasted for hours, but the snake emerges victorious. In this shocking fight, a jaguar slowly emerges behind an exacting crocodile in the wetlands of Brazil. The jaguar sinks it teeth into the back of the crocodile in order to constrict the crocodile. The jaguar then carries off its prey, after the destruction it has just caused to the crocodile. In this video, a cobra snake has just discovered a nest of mongooses. As it plots to sliver in, a mongoose uses a tunnel to sneak up behind the snake a strike. The mongoose bites the snake in the head and they begin attacking each other. The snake then wraps up the mongoose in an attempt to strangle it. However, the mongoose frees itself, and begins to take painful bites at the cobra, eventually killing it. In this video, a shark is peacefully swimming through ocean territory. However, it’s swim is interrupted when an octopus disguised as coral rises up and wraps its tentacles around the shark. The giant pacific octopus was able to easily defeat the shark in this unlikely match up, despite the octopus being far lower down in the food chain. During this animal fight between an hyena and a pack of lions, the hyena uses their amazing dexterity to run quickly away from the lion pack. However, the hyena was soon caught up to by the pack, as they surround it and begin to bite it. In this unlikely match-up, a cobra and an eagle to head to head. The eagle tries to use its size to stand and peck at the cobra. But the cobra fights back attempting to bite back. However, on one bite when the cobra’s mouth is open, the eagle strikes and bites the cobra in the mouth. In this wild battle, recorded deep in the jungle a tiger and a huge lion go head to head. The pair spend hours wrestling and biting one another to see who the real king of the jungle is. When suddenly the tiger rolls over in defeat, after hours of fighting with the massive lion. In this shocking piece of footage from South Africa, a lion who is attacking a buffalo is suddenly changed at by 2 other buffalos. The lion is the launched 4 meters into the air by the giant male buffalo. The animals scuffled for a little while longer, but all walked away with no major injuries. Despite this, we think it’s pretty safe to say that the buffalo won this round.\n\nCHECK OUT MY VLOG CHANNEL ► https://www.youtube.com/JakeBrowatzkeVlogs\n\n*FOLLOW ME ON SOCIAL MEDIA! * (@JakeBrowatzke)\nTwitter  ► https://twitter.com/JakeBrowatzke\nInstagram ► https://www.instagram.com/JakeBrowatzke\nFacebook ► https://www.facebook.com/JakesTop10\n\n♫Music By♫\nEpidemic Sound\n\nSEE YOU AGAIN NEXT FUNNY OR CRAZY TOP 10!!\n\n--------------------------------------------------------------------------\n*This video was created for educational purposes and is family friendly.\n---------------------------------------------------------------------------\nCopyright Disclaimer:\nUnder Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "17220565",
+        "likeCount": "128847"
+      }
+    }
+  ]
+}

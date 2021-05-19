@@ -1,0 +1,310 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "3qie-o_y285QbfAE4dQOGmEbFTY",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "id": "Sports1",
+      "rank": 0,
+      "snippet": {
+        "title": "WWE",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJywWL7oV3o4EsnANmDIOCIRLiuInjCHazRyVvZoqXY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJywWL7oV3o4EsnANmDIOCIRLiuInjCHazRyVvZoqXY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJywWL7oV3o4EsnANmDIOCIRLiuInjCHazRyVvZoqXY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "WWE"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "68900000"
+      }
+    },
+    {
+      "id": "Sports2",
+      "rank": 1,
+      "snippet": {
+        "title": "Dude Perfect",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzuNU_HVtq_3MUoCGfE9BCP5V_r1OcKfr1s-TTLAQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzuNU_HVtq_3MUoCGfE9BCP5V_r1OcKfr1s-TTLAQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzuNU_HVtq_3MUoCGfE9BCP5V_r1OcKfr1s-TTLAQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Dude Perfect"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "54100000"
+      }
+    },
+    {
+      "id": "Sports3",
+      "rank": 2,
+      "snippet": {
+        "title": "NBA",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx70Y57iE1UhGn64LzdI4Rf5Aw5jNrl1vK6SULWuA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx70Y57iE1UhGn64LzdI4Rf5Aw5jNrl1vK6SULWuA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJx70Y57iE1UhGn64LzdI4Rf5Aw5jNrl1vK6SULWuA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "NBA"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "15300000"
+      }
+    },
+    {
+      "id": "Sports4",
+      "rank": 3,
+      "snippet": {
+        "title": "UFC - Ultimate Fighting Championship",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "UFC - Ultimate Fighting Championship"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "10600000"
+      }
+    },
+    {
+      "id": "Sports5",
+      "rank": 4,
+      "snippet": {
+        "title": "FC Barcelona",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzwXdh9CnOlSE0iHqPw4Keo2jEHpXMLVvD_bGvIRWQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzwXdh9CnOlSE0iHqPw4Keo2jEHpXMLVvD_bGvIRWQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzwXdh9CnOlSE0iHqPw4Keo2jEHpXMLVvD_bGvIRWQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "FC Barcelona"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "10500000"
+      }
+    },
+    {
+      "id": "Sports6",
+      "rank": 5,
+      "snippet": {
+        "title": "ESPN",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzhOh9WaJ3xwOZVhgRW8dOIPMtEPACe9CqUyK_YJjk=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzhOh9WaJ3xwOZVhgRW8dOIPMtEPACe9CqUyK_YJjk=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzhOh9WaJ3xwOZVhgRW8dOIPMtEPACe9CqUyK_YJjk=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ESPN"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "7500000"
+      }
+    },
+    {
+      "id": "Sports7",
+      "rank": 6,
+      "snippet": {
+        "title": "How Ridiculous",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzaIdckuzTqndk3fqjoahwWWj1ZoJHhJbPkvRUUFw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzaIdckuzTqndk3fqjoahwWWj1ZoJHhJbPkvRUUFw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzaIdckuzTqndk3fqjoahwWWj1ZoJHhJbPkvRUUFw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "How Ridiculous"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "6100000"
+      }
+    },
+    {
+      "id": "Sports8",
+      "rank": 7,
+      "snippet": {
+        "title": "LaLiga Santander",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxTPYUzISf-1dcXqFwy4q594ftkigCJuFy5KPRCAA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxTPYUzISf-1dcXqFwy4q594ftkigCJuFy5KPRCAA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxTPYUzISf-1dcXqFwy4q594ftkigCJuFy5KPRCAA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LaLiga Santander"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "6100000"
+      }
+    },
+    {
+      "id": "Sports9",
+      "rank": 8,
+      "snippet": {
+        "title": "Serie A",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhLIw6j2M5yR791mxSOVJnSYTKt5eJMueP3vgH4-A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhLIw6j2M5yR791mxSOVJnSYTKt5eJMueP3vgH4-A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhLIw6j2M5yR791mxSOVJnSYTKt5eJMueP3vgH4-A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Serie A"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "5700000"
+      }
+    },
+    {
+      "id": "Sports10",
+      "rank": 9,
+      "snippet": {
+        "title": "hickok45",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzYpey7whduc_3wygsBV5d1tOUJA6ZDr85Ieoyu=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzYpey7whduc_3wygsBV5d1tOUJA6ZDr85Ieoyu=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzYpey7whduc_3wygsBV5d1tOUJA6ZDr85Ieoyu=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "hickok45"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "5600000"
+      }
+    }
+  ]
+}

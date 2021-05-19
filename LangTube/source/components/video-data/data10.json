@@ -1,0 +1,790 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/JIwojTYGRW-iB9eFQjYOoxfygiM\"",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#video",
+      "rank": 0,
+      "etag": "M11EdUQprPvQfZ2Q1IwyYg_ON8k",
+      "id": "3EkHNhRD4bE",
+      "snippet": {
+        "publishedAt": "2018-07-19",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwniocQTKYY6M-F4Air9BBxMIExYe30w7u7LqKiAdjg=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCU2zNeYhf9pi_wSqFbYE96w",
+        "title": "보람이 가족여행 Boram Family Tour",
+        "description": "*협찬 장소: PIC리조트\n\n재밌게 시청해주시고, 구독하기 꾹 눌러주세요♡ http://goo.gl/V4XFyf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3EkHNhRD4bE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3EkHNhRD4bE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3EkHNhRD4bE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3EkHNhRD4bE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3EkHNhRD4bE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Boram Tube Vlog [보람튜브 브이로그]",
+        "tags": [
+          "물놀이",
+          "워터파크",
+          "놀이터",
+          "물놀이 놀이터",
+          "수영",
+          "미끄럼틀",
+          "색깔놀이",
+          "색깔",
+          "WATER SLIDE",
+          "SWIMMING",
+          "POOL",
+          "SWIMMING POOL"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "보람이 가족여행 Boram Family Tour",
+          "description": "*협찬 장소: PIC리조트\n\n재밌게 시청해주시고, 구독하기 꾹 눌러주세요♡ http://goo.gl/V4XFyf"
+        }
+      },
+      "statistics": {
+        "viewCount": "125758182",
+        "likeCount": "279277"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "rank": 1,
+      "etag": "_u7Y9WLr_xUokXxks_Q9g_qCmB4",
+      "id": "Ir2AM0bUsQY",
+      "snippet": {
+        "publishedAt": "2018-08-08",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJwpVGnwnrTYZRwh2wrA_S7sygCcmjYrSUOrU1z9oA=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UC03RvJoIhm_fMwlUpm9ZvFw",
+        "title": "Pack Up and Go With These 15 Travel Hacks and More DIY Ideas by Crafty Panda",
+        "description": "Summer is the best time for travelling! Getting ready for a holiday trip? Discover how to pack your luggage quickly, save space and fit more clothes in your suitcase and learn how to pack your food for a long journey. Plus other clothes folding tips and DIY travelling hacks! Bon voyage!\n\nSubscribe to Crafty Panda:\nEspañol: https://youtube.com/CraftyPandaES?sub_confirmation=1\nDeutsch: https://youtube.com/CraftyPandaDE?sub_confirmation=1\nFrançais: https://youtube.com/CraftyPandaFR?sub_confirmation=1\nPortuguês: https://youtube.com/TruquesDoPanda?sub_confirmation=1\n\nSubscribe to Crafty Panda channel: https://www.youtube.com/channel/UC03RvJoIhm_fMwlUpm9ZvFw?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/craftypanda\nVisit Bored Panda website: https://www.boredpanda.com\nDownload Crafty Panda Animated Stickers: https://itunes.apple.com/us/app/bored-panda-animated-stickers/id1423521363?ls=1&mt=8\n\nLoved the music used in this video? We find our music on EpidemicSound: https://bit.ly/2JcUlBa\n\nFor sponsored content contact us at crafty@boredpanda.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ir2AM0bUsQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ir2AM0bUsQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ir2AM0bUsQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ir2AM0bUsQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ir2AM0bUsQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crafty Panda",
+        "tags": [
+          "how to pack",
+          "diy clothes",
+          "travel hacks",
+          "travel tips",
+          "travel packing",
+          "how to pack a suitcase",
+          "packing for travel",
+          "diy travel",
+          "folding hacks",
+          "traveling hacks",
+          "bundle pack",
+          "traveling tips",
+          "packing for a trip",
+          "travel packing tips",
+          "folding clothes hacks",
+          "travel hacks packing",
+          "pack like a pro",
+          "how to pack like a pro",
+          "traveling life hacks",
+          "bundle packing",
+          "packing guide",
+          "packing",
+          "traveling",
+          "travel",
+          "pack",
+          "how to",
+          "tips",
+          "tricks",
+          "diy",
+          "hacks",
+          "lifehack",
+          "life hack",
+          "organize",
+          "fold",
+          "clothes"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Pack Up and Go With These 15 Travel Hacks and More DIY Ideas by Crafty Panda",
+          "description": "Summer is the best time for travelling! Getting ready for a holiday trip? Discover how to pack your luggage quickly, save space and fit more clothes in your suitcase and learn how to pack your food for a long journey. Plus other clothes folding tips and DIY travelling hacks! Bon voyage!\n\nSubscribe to Crafty Panda:\nEspañol: https://youtube.com/CraftyPandaES?sub_confirmation=1\nDeutsch: https://youtube.com/CraftyPandaDE?sub_confirmation=1\nFrançais: https://youtube.com/CraftyPandaFR?sub_confirmation=1\nPortuguês: https://youtube.com/TruquesDoPanda?sub_confirmation=1\n\nSubscribe to Crafty Panda channel: https://www.youtube.com/channel/UC03RvJoIhm_fMwlUpm9ZvFw?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/craftypanda\nVisit Bored Panda website: https://www.boredpanda.com\nDownload Crafty Panda Animated Stickers: https://itunes.apple.com/us/app/bored-panda-animated-stickers/id1423521363?ls=1&mt=8\n\nLoved the music used in this video? We find our music on EpidemicSound: https://bit.ly/2JcUlBa\n\nFor sponsored content contact us at crafty@boredpanda.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "19493022",
+        "likeCount": "218952"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "eSW97_FtSdUjs7kzx4W9XxuawyY",
+      "rank": 2,
+      "id": "FjU_x1106pg",
+      "snippet": {
+        "publishedAt": "2016-09-29",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJx25dcPbVVuvBcBKXV07et19WGPZyWUcy9BmRKxgg=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCM7rCxp0Hp3qktZKeEtKqcg",
+        "title": "MANHATTAN | NEW YORK CITY - NY , UNITED STATES - A TRAVEL TOUR - UHD 4K",
+        "description": "A 3.5+ hour tour of New York City (NYC), focusing on the borough of Manhattan, the city’s historic birthplace, economic and administrative center as well as the most densely populated of the 5 boroughs that make up NYC.\n\n#NewYork #Manhattan #4KVideo \n\nPlease comment, subscribe and share!\n\nOfficial website and blog: http://globetrotteralpha.com/\n\nJoin us on Facebook: https://www.facebook.com/GlobeTrotterAlphaTravels/\n\nCheck us out on Instagram: https://www.instagram.com/globetrotteralphatravels/\n\nDid you like the video? Please support the channel through PayPal\n\nPayPal.Me/Globetrotteralpha\n\nThe film chronologically progresses from early morning to the small hours of the night, showcasing daily life around Manhattan.\n\n- Early morning up to 10 AM (0:00 - 24:07) \n- Daytime from 10 AM to 2 PM (24:08 - 1:45:37) \n- Daytime from 2 PM to 4 PM (1:45:38 - 2:17:49) \n- Afternoon from 4 PM to sunset (2:17:50 - 3:00:17) \n- Sunset (3:00:18 - 3:11:01) \n- Evening (3:11:02 - 3:24:42) \n- Night (3:24:43 - 3:40:33)\n\nFor those planning on visiting, those who’d like to visit but cannot or those who might be nostalgic and want to re-live their past visits/life there, hopefully, this film shall satisfy, time and time again. A person MUST experience the city at least once in their lifetime.\n\nFilmed during October 2015.\n\nAn interactive map for this video is available, pinpointing each and every scene:\nhttps://www.new-york-travel-tour.com/de/video-map/\n\nFor more information on Manhattan and New York City:\nhttps://en.wikipedia.org/wiki/New_York_City\n\nGoogle Maps:\nhttps://www.google.com/maps/@40.7527574,-74.0285435,12.5z\n\nFilming equipment:\n\nCamera:\n- Panasonic Lumix GH4 \n* Buy the newer Panasonic GH5:\nhttps://amzn.to/2NTDHwL\n\nLenses:\n- Panasonic Lumix G X Vario 12-35mm f/2.8 ASPH Power OIS Micro 4/3 \n* Buy the newer model:\nhttps://amzn.to/2NJKLeY\n\n- Canon EF 70-200mm f/2.8L IS II USM Telephoto Zoom \n* Buy the newer model:\nhttps://amzn.to/2ZN0612\n\n- Canon EF 24mm f/1.4L II USM \n* Buy it here:\nhttps://amzn.to/2UkBR9b\n\nOther Accessories:\n- Metabones Speedbooster: Canon EF Lens to Micro Four Thirds Speed Booster S\n*Buy the newer model here:\nhttps://amzn.to/2NP0ZUt\n\n- Sachtler System FSB 8 SL MCF (Tripod + Fluid Head) \n* Buy the updated model:\nhttps://amzn.to/2ZE0tec\n\n- Freefly MOVI M5 3-Axis Motorized Gimbal Stabilizer\n* Buy it here:\nhttps://amzn.to/2zLDtz7\n* My current handheld stabilizer:\nhttps://amzn.to/2zE7Wz5\n\n- Atomos Shogun 4K HDMI/12G-SDI Recorder and 7\" Monitor\n* Buy the updated model:\nhttps://amzn.to/2HDdhv5\n* My current external monitor:\nhttps://amzn.to/2zE4uog\n\n- Rode Stereo VideoMic X\n* Buy it here:\nhttps://amzn.to/2MNjEjG\n\nEditing Software:\nAdobe Premiere Pro CC\n\n#NewYorkTour #4K #TravelVlog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FjU_x1106pg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FjU_x1106pg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FjU_x1106pg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FjU_x1106pg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FjU_x1106pg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GlobeTrotter Alpha",
+        "tags": [
+          "New York 4K",
+          "Manhattan",
+          "New York",
+          "New York tour",
+          "New York City tour",
+          "4K video",
+          "4K res.",
+          "Tourism",
+          "New York documentary",
+          "Manhattan New York",
+          "Times Square",
+          "New York City",
+          "new york travel guide",
+          "Manhattan city",
+          "UHD Video 4K",
+          "New York USA",
+          "New York New York",
+          "New York New Yooork",
+          "NYC Vlog",
+          "new york travel",
+          "manhattan skyline",
+          "city streets",
+          "walking tour",
+          "Nueva York",
+          "纽约",
+          "ニューヨーク市",
+          "ニューヨーク",
+          "뉴욕시",
+          "न्यूयॉर्क",
+          "nowy jork",
+          "нью йорк",
+          "نيويورك",
+          "Globetrotteralpha",
+          "globetrotter Alpha"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "MANHATTAN | NEW YORK CITY - NY , UNITED STATES - A TRAVEL TOUR - UHD 4K",
+          "description": "A 3.5+ hour tour of New York City (NYC), focusing on the borough of Manhattan, the city’s historic birthplace, economic and administrative center as well as the most densely populated of the 5 boroughs that make up NYC.\n\n#NewYork #Manhattan #4KVideo \n\nPlease comment, subscribe and share!\n\nOfficial website and blog: http://globetrotteralpha.com/\n\nJoin us on Facebook: https://www.facebook.com/GlobeTrotterAlphaTravels/\n\nCheck us out on Instagram: https://www.instagram.com/globetrotteralphatravels/\n\nDid you like the video? Please support the channel through PayPal\n\nPayPal.Me/Globetrotteralpha\n\nThe film chronologically progresses from early morning to the small hours of the night, showcasing daily life around Manhattan.\n\n- Early morning up to 10 AM (0:00 - 24:07) \n- Daytime from 10 AM to 2 PM (24:08 - 1:45:37) \n- Daytime from 2 PM to 4 PM (1:45:38 - 2:17:49) \n- Afternoon from 4 PM to sunset (2:17:50 - 3:00:17) \n- Sunset (3:00:18 - 3:11:01) \n- Evening (3:11:02 - 3:24:42) \n- Night (3:24:43 - 3:40:33)\n\nFor those planning on visiting, those who’d like to visit but cannot or those who might be nostalgic and want to re-live their past visits/life there, hopefully, this film shall satisfy, time and time again. A person MUST experience the city at least once in their lifetime.\n\nFilmed during October 2015.\n\nAn interactive map for this video is available, pinpointing each and every scene:\nhttps://www.new-york-travel-tour.com/de/video-map/\n\nFor more information on Manhattan and New York City:\nhttps://en.wikipedia.org/wiki/New_York_City\n\nGoogle Maps:\nhttps://www.google.com/maps/@40.7527574,-74.0285435,12.5z\n\nFilming equipment:\n\nCamera:\n- Panasonic Lumix GH4 \n* Buy the newer Panasonic GH5:\nhttps://amzn.to/2NTDHwL\n\nLenses:\n- Panasonic Lumix G X Vario 12-35mm f/2.8 ASPH Power OIS Micro 4/3 \n* Buy the newer model:\nhttps://amzn.to/2NJKLeY\n\n- Canon EF 70-200mm f/2.8L IS II USM Telephoto Zoom \n* Buy the newer model:\nhttps://amzn.to/2ZN0612\n\n- Canon EF 24mm f/1.4L II USM \n* Buy it here:\nhttps://amzn.to/2UkBR9b\n\nOther Accessories:\n- Metabones Speedbooster: Canon EF Lens to Micro Four Thirds Speed Booster S\n*Buy the newer model here:\nhttps://amzn.to/2NP0ZUt\n\n- Sachtler System FSB 8 SL MCF (Tripod + Fluid Head) \n* Buy the updated model:\nhttps://amzn.to/2ZE0tec\n\n- Freefly MOVI M5 3-Axis Motorized Gimbal Stabilizer\n* Buy it here:\nhttps://amzn.to/2zLDtz7\n* My current handheld stabilizer:\nhttps://amzn.to/2zE7Wz5\n\n- Atomos Shogun 4K HDMI/12G-SDI Recorder and 7\" Monitor\n* Buy the updated model:\nhttps://amzn.to/2HDdhv5\n* My current external monitor:\nhttps://amzn.to/2zE4uog\n\n- Rode Stereo VideoMic X\n* Buy it here:\nhttps://amzn.to/2MNjEjG\n\nEditing Software:\nAdobe Premiere Pro CC\n\n#NewYorkTour #4K #TravelVlog"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "19315061",
+        "likeCount": "117385"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "rank": 3,
+      "etag": "CBPhCbxLRCM7GGaWR5tKH6EQ7Bg",
+      "id": "UfLvR5kpVvY",
+      "snippet": {
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJxIY5Vx9OCoM5CTH3MlIc2fz1zJl11IBYOi5LZf=s88-c-k-c0x00ffffff-no-rj",
+        "publishedAt": "2014-01-12",
+        "channelId": "UCgyHcpsi6K7kyVe1NjxdQOg",
+        "title": "Stive Morgan - Magic Travel",
+        "description": "страница автора http://promodj.com/stivemorgan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UfLvR5kpVvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UfLvR5kpVvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UfLvR5kpVvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UfLvR5kpVvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UfLvR5kpVvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stive Morgan Project",
+        "tags": [
+          "stive morgan"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Stive Morgan - Magic Travel",
+          "description": "страница автора http://promodj.com/stivemorgan"
+        }
+      },
+      "statistics": {
+        "viewCount": "17486425",
+        "likeCount": "60977"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "SzyisPhQhHMPhDLgohOaJGL6kXA",
+      "rank": 4,
+      "id": "FiUKKi0ymoU",
+      "snippet": {
+        "publishedAt": "2020-02-03",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwnjCsYp7MpIiP3noUVpGe_6BJP9Q8S9g-D3-ocIE5Q=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UC295-Dw_tDNtZXFeAPAW6Aw",
+        "title": "26 SMART TRAVEL HACKS TO SOLVE ALL YOUR TROUBLES",
+        "description": "Genius tricks to make traveling less stressful\r\n\r\nWe all know how anxious we get when we are about to go on a trip. With all the packing and lists and folding, we need to so..you know the drill. So, in this video, I show you some brilliant hacks to make your traveling a little less stressful and a little more fun. \r\nYou can melt some soap base, place it in a syringe and then transfer it into little containers ( empty gum containers or ice-cube trays) Let it cool, and then every time you’re about to wash your hands, take out one little blob. \r\nYou can do the same with toothpaste. Add some blobs on a piece of greaseproof paper, sprinkle some baking soda on top and finally, transfer them in a container. \r\nFor the campers out there, I show you how to make your own fire starters using nail polish. Simply add some layers of nail polish on a few cotton pads and voila. \r\nTo prevent your matches from getting wet, place them in a tightly sealed container. \r\nTo keep your money safe while traveling, simply put them inside your hairbrush, soap or sanitary pad.\r\n\r\nTimestamps: \r\n2:10 – How to pack your matches \r\n3:15 – Genius candle trick – prevent it from going off\r\n4:26 – Money-saving tricks for travelers\r\n5:30 – Hotel room lifehacks\r\n7:28 – Awesome bedside table\r\n8:50 – DIY traveling checklist \r\n9:14 – Airport travel hacks\r\n11:20 – Turn your hoodie into a backpack \r\n\r\n#travel #travelers #adventure\n----------------------------------------------------------------------------------------\n\nOur Social Media:\n\n \n\nFacebook: https://www.facebook.com/5min.crafts/\n\nInstagram: https://www.instagram.com/5.min.crafts/\n\nTwitter: https://twitter.com/5m_crafts\n\n \n\nSubscribe to 5-Minute Crafts GIRLY: https://goo.gl/fWbJqz\n\nSubscribe to 5-Minute Crafts KIDS: https://goo.gl/PEuLVt\n\nSubscribe to 5-Minute Crafts MEN: http://bit.ly/2S69VUG\n\n \n\nThe Bright Side of Youtube: https://goo.gl/rQTJZz\n----------------------------------------------------------------------------------------\n\n \n\nFor more videos and articles visit: http://www.brightside.me\n\nMusic by Epidemic Sound: https://www.epidemicsound.com/ This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\n\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\n\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiUKKi0ymoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiUKKi0ymoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiUKKi0ymoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FiUKKi0ymoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FiUKKi0ymoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5-Minute Crafts",
+        "tags": [
+          "proyectos faciles",
+          "trucos de belliza",
+          "howto",
+          "tutorial",
+          "handcraft",
+          "tips",
+          "5 minute craft",
+          "useful things",
+          "life hacks",
+          "crafts",
+          "diy",
+          "5-minute crafts",
+          "tricks",
+          "do it yourself",
+          "diy projects",
+          "trucos",
+          "diy activities",
+          "5 minutes craft",
+          "lifehacks",
+          "travel",
+          "traveling",
+          "travelers",
+          "bloggers",
+          "travel bloggers",
+          "traveling tips",
+          "camping",
+          "toiletries",
+          "packing",
+          "how to pack",
+          "packing clothes",
+          "money secrets",
+          "hiding places",
+          "adventure",
+          "camping hacks",
+          "survival skills",
+          "hotel",
+          "hotel room tricks",
+          "travel checklist"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "26 SMART TRAVEL HACKS TO SOLVE ALL YOUR TROUBLES",
+          "description": "Genius tricks to make traveling less stressful\r\n\r\nWe all know how anxious we get when we are about to go on a trip. With all the packing and lists and folding, we need to so..you know the drill. So, in this video, I show you some brilliant hacks to make your traveling a little less stressful and a little more fun. \r\nYou can melt some soap base, place it in a syringe and then transfer it into little containers ( empty gum containers or ice-cube trays) Let it cool, and then every time you’re about to wash your hands, take out one little blob. \r\nYou can do the same with toothpaste. Add some blobs on a piece of greaseproof paper, sprinkle some baking soda on top and finally, transfer them in a container. \r\nFor the campers out there, I show you how to make your own fire starters using nail polish. Simply add some layers of nail polish on a few cotton pads and voila. \r\nTo prevent your matches from getting wet, place them in a tightly sealed container. \r\nTo keep your money safe while traveling, simply put them inside your hairbrush, soap or sanitary pad.\r\n\r\nTimestamps: \r\n2:10 – How to pack your matches \r\n3:15 – Genius candle trick – prevent it from going off\r\n4:26 – Money-saving tricks for travelers\r\n5:30 – Hotel room lifehacks\r\n7:28 – Awesome bedside table\r\n8:50 – DIY traveling checklist \r\n9:14 – Airport travel hacks\r\n11:20 – Turn your hoodie into a backpack \r\n\r\n#travel #travelers #adventure\n----------------------------------------------------------------------------------------\n\nOur Social Media:\n\n \n\nFacebook: https://www.facebook.com/5min.crafts/\n\nInstagram: https://www.instagram.com/5.min.crafts/\n\nTwitter: https://twitter.com/5m_crafts\n\n \n\nSubscribe to 5-Minute Crafts GIRLY: https://goo.gl/fWbJqz\n\nSubscribe to 5-Minute Crafts KIDS: https://goo.gl/PEuLVt\n\nSubscribe to 5-Minute Crafts MEN: http://bit.ly/2S69VUG\n\n \n\nThe Bright Side of Youtube: https://goo.gl/rQTJZz\n----------------------------------------------------------------------------------------\n\n \n\nFor more videos and articles visit: http://www.brightside.me\n\nMusic by Epidemic Sound: https://www.epidemicsound.com/ This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\n\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\n\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "13137415",
+        "likeCount": "101991"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "9Ms1Fd2njTe8CBA5Z60krLV58oY",
+      "rank": 5,
+      "id": "Py-BAqWV144",
+      "snippet": {
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJyVQt_dzJ3sxRh1Ftx1ruBG1pc_o3B1Jj8t2nn26w=s88-c-k-c0x00ffffff-no-rj",
+        "publishedAt": "2020-08-06",
+        "channelId": "UC4_LKvfpSNP9Ot-RX4J63Pg",
+        "title": "[아시아나항공] 여행이 떠났다",
+        "description": "여행이 우리를 떠나버린 지금이지만,\n모든 여행의 마지막은 \n제자리로 돌아왔듯\n우릴 떠난 여행도 일상도\n다시 제자리로 돌아올 것입니다\n아시아나가 그날을 함께 기다립니다 \n.\n#아시아나 #아시아나항공 #ASIANA #AsianaAirlines #여행이_떠났다 #코로나19극복",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Py-BAqWV144/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Py-BAqWV144/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Py-BAqWV144/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Py-BAqWV144/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Py-BAqWV144/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Asiana Airlines (아시아나항공)",
+        "tags": [
+          "아시아나항공",
+          "ASIANAAIRLINES",
+          "TRAVEL",
+          "항공사",
+          "여행",
+          "아시아나",
+          "Asiana",
+          "여행이떠났다",
+          "여행이_떠났다",
+          "코로나19극복"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[아시아나항공] 여행이 떠났다",
+          "description": "여행이 우리를 떠나버린 지금이지만,\n모든 여행의 마지막은 \n제자리로 돌아왔듯\n우릴 떠난 여행도 일상도\n다시 제자리로 돌아올 것입니다\n아시아나가 그날을 함께 기다립니다 \n.\n#아시아나 #아시아나항공 #ASIANA #AsianaAirlines #여행이_떠났다 #코로나19극복"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "statistics": {
+        "viewCount": "12871093",
+        "likeCount": "4260"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "z17kmbghePWHHRU0tlWrmJMCNZw",
+      "rank": 6,
+      "id": "boC38hp9ozg",
+      "snippet": {
+        "publishedAt": "2020-06-23",
+        "channelId": "UC6ye474SJCiPsEPueO_b3Gw",
+        "profileimage": "https://yt3.ggpht.com/ytc/AAUvwngH8zjTt1UUiJUM3IN2bCGv9WTdGSctdfD05b-CMA=s88-c-k-c0x00ffffff-no-rj",
+        "title": "예준이의 가족여행 테마파크 놀이터 Family Trip Fun Playground Park",
+        "description": "[With Kids]위드키즈 Funny Video for Kids ▶ https://goo.gl/pDg8bR ◀\nFamily Trip with Fun Amusement Park Playground Activity\n예준이의 가족여행 테마파크 놀이터 Family Trip Fun Playground Park",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/boC38hp9ozg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/boC38hp9ozg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/boC38hp9ozg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/boC38hp9ozg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/boC38hp9ozg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "With Kids[위드키즈]",
+        "tags": [
+          "with kids",
+          "위드키즈",
+          "예준이",
+          "장난감",
+          "car toy",
+          "자동차 장난감",
+          "power wheels",
+          "가족여행",
+          "family trip",
+          "amusement park",
+          "playground",
+          "놀이터"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "예준이의 가족여행 테마파크 놀이터 Family Trip Fun Playground Park",
+          "description": "[With Kids]위드키즈 Funny Video for Kids ▶ https://goo.gl/pDg8bR ◀\nFamily Trip with Fun Amusement Park Playground Activity\n예준이의 가족여행 테마파크 놀이터 Family Trip Fun Playground Park"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "statistics": {
+        "viewCount": "11681297"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "rank": 7,
+      "etag": "mPEkwlIsNrHdGeQv-XXUsOqp5b4",
+      "id": "W4Ou96H-cPc",
+      "snippet": {
+        "publishedAt": "2019-09-08",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJyj67pHmiqnXEpQ_u9EvBUoIK61uaFcEIZFE3wO=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCZrnB1oEI66QcRfsNgcp50g",
+        "title": "Switzerland in 4K",
+        "description": "Switzerland in 4K\n\nFilmed in August 2019\n\nFeaturing: Wengen, Lauterbrunnen Valley, Lucerne, Iseltwald, Schilthorn Piz Gloria, \nMürren, Bachalpsee Lake, Oescheninsee, Zermatt, Matterhorn, Bern, First Cliff Walk, Grindelwald, Zurich\n\nShot in 4K with: \nSony a7iii\nDJI Ronin SC\nDJI Mavic Air\nDJI Osmo Action \n\nInstagram: http://www.instagram.com/jeffamador\n\nMusic (licensed via Musicbed.com): \nJordan Critz - Father's Land\nOne Hundred Years - Limitless\nRoary - Unbroken\nJordan Critz - Infinite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W4Ou96H-cPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W4Ou96H-cPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W4Ou96H-cPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W4Ou96H-cPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W4Ou96H-cPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jeff Amador",
+        "tags": [
+          "switzerland",
+          "travel",
+          "vlog",
+          "blog",
+          "travel blog",
+          "nature",
+          "travelog",
+          "montage",
+          "2019",
+          "4k",
+          "4K",
+          "sony",
+          "alpha",
+          "sony alpha",
+          "sony a7iii",
+          "sony a73",
+          "sony a 7 iii",
+          "dji",
+          "dji ronin",
+          "dji ronin sc",
+          "dji osmo",
+          "dji osmo action",
+          "dji mavic",
+          "dji mavic air",
+          "drone",
+          "swiss",
+          "wengen",
+          "lauterbrunnen",
+          "lucerne",
+          "iseltwald",
+          "schilthorn piz gloria",
+          "mürren",
+          "murren",
+          "bachalpsee",
+          "lake",
+          "bachalpsee lake",
+          "oescheninsee",
+          "oescheninsee lake",
+          "zermatt",
+          "matterhorn",
+          "airtime paragliding",
+          "bern",
+          "first cliff walk",
+          "grindelwald",
+          "zurich"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Switzerland in 4K",
+          "description": "Switzerland in 4K\n\nFilmed in August 2019\n\nFeaturing: Wengen, Lauterbrunnen Valley, Lucerne, Iseltwald, Schilthorn Piz Gloria, \nMürren, Bachalpsee Lake, Oescheninsee, Zermatt, Matterhorn, Bern, First Cliff Walk, Grindelwald, Zurich\n\nShot in 4K with: \nSony a7iii\nDJI Ronin SC\nDJI Mavic Air\nDJI Osmo Action \n\nInstagram: http://www.instagram.com/jeffamador\n\nMusic (licensed via Musicbed.com): \nJordan Critz - Father's Land\nOne Hundred Years - Limitless\nRoary - Unbroken\nJordan Critz - Infinite"
+        }
+      },
+      "statistics": {
+        "viewCount": "11239264",
+        "likeCount": "128370"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "etag": "Gq7RG4akicOWjFh8zWvGs428o0M",
+      "rank": 8,
+      "id": "MtCMtC50gwY",
+      "snippet": {
+        "publishedAt": "2013-03-07",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJyOSsPRilCPtJ97F5xaRHrTVjZWec2qDMzr6XoHv0w=s88-c-k-c0x00ffffff-no-rj",
+        "channelId": "UCGaOvAFinZ7BCN_FDmw74fQ",
+        "title": "New York City Vacation Travel Guide | Expedia",
+        "description": "New York City needs no introduction. Sitting at the top of many travelers’ bucket lists, NYC is always poised to impress. Check out our footage to see why!\n\nWhen ready, browse vacation packages to New York City: https://www.expedia.com/New-York.dx178293\n\n#NewYorkCity is an international metropolis built on the shoulders of immigrants and their descendants.\n\nThe city is home to eight million people, and receives more than 50 million visitors per year. Your New York City #vacation should include sampling the food of hundreds of different cultures. You can easily #explore on foot, by taxi, or via the famous subway system.\n\nNo New York #sightseeing is complete without a visit to Times Square, which you’ve no doubt seen in many movies. Take in its billboards, its many people, and its food, then cross over to Central Park, which comprises 850 acres of lakes and meadows, and is the setting for many a romantic comedy. You also have your pick of art and history museums, as well as the Reflecting Absence Memorial and Museum, where you can pay your respects to the victims of 9/11.\n\nFor now, we hope you enjoy watching this #travel #guide as much as we enjoyed making it. \n\nSubscribe to Expedia’s YouTube Channel for great travel videos and join the conversation on the best vacation ideas. \n\n---------\n1:24 - Empire State Building\n1:51 - The Rockefeller Center\n2:06 - Grand Central Station\n2:21 - Fifth Avenue\n2:39 - Times Square\n3:00 - Central Park\n3:23 - The Metropolitan Museum of Art\n3:46 - The Guggenheim Museum\n4:00 - Reflecting Absence Memorial\n4:27 - Little Italy\n4:41 - SoHo\n4:49 - Greenwich Village\n5:00 - Brooklyn and Brooklyn Bridge \n5:10 - Coney Island\n\n---------\nFollow us on social media: \nFACEBOOK: https://www.facebook.com/expedia\nTWITTER: https://twitter.com/Expedia\nINSTAGRAM: https://instagram.com/expedia/\nPINTEREST: https://www.pinterest.com/expedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MtCMtC50gwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MtCMtC50gwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MtCMtC50gwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MtCMtC50gwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MtCMtC50gwY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Expedia",
+        "tags": [
+          "trip",
+          "explore",
+          "attractions",
+          "tourist",
+          "New York City vacations",
+          "guide",
+          "New York City",
+          "New York City travel guide",
+          "vacation",
+          "tourism",
+          "expedia",
+          "travel",
+          "visit",
+          "yt:cc=off",
+          "Empire State Building",
+          "Brooklyn",
+          "Statue of Liberty",
+          "Times Square",
+          "Central Park",
+          "Grand Central Terminal",
+          "The National September 11 Memorial",
+          "Rockefeller Center",
+          "Union Square New York"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "New York City Vacation Travel Guide | Expedia",
+          "description": "New York City needs no introduction. Sitting at the top of many travelers’ bucket lists, NYC is always poised to impress. Check out our footage to see why!\n\nWhen ready, browse vacation packages to New York City: https://www.expedia.com/New-York.dx178293\n\n#NewYorkCity is an international metropolis built on the shoulders of immigrants and their descendants.\n\nThe city is home to eight million people, and receives more than 50 million visitors per year. Your New York City #vacation should include sampling the food of hundreds of different cultures. You can easily #explore on foot, by taxi, or via the famous subway system.\n\nNo New York #sightseeing is complete without a visit to Times Square, which you’ve no doubt seen in many movies. Take in its billboards, its many people, and its food, then cross over to Central Park, which comprises 850 acres of lakes and meadows, and is the setting for many a romantic comedy. You also have your pick of art and history museums, as well as the Reflecting Absence Memorial and Museum, where you can pay your respects to the victims of 9/11.\n\nFor now, we hope you enjoy watching this #travel #guide as much as we enjoyed making it. \n\nSubscribe to Expedia’s YouTube Channel for great travel videos and join the conversation on the best vacation ideas. \n\n---------\n1:24 - Empire State Building\n1:51 - The Rockefeller Center\n2:06 - Grand Central Station\n2:21 - Fifth Avenue\n2:39 - Times Square\n3:00 - Central Park\n3:23 - The Metropolitan Museum of Art\n3:46 - The Guggenheim Museum\n4:00 - Reflecting Absence Memorial\n4:27 - Little Italy\n4:41 - SoHo\n4:49 - Greenwich Village\n5:00 - Brooklyn and Brooklyn Bridge \n5:10 - Coney Island\n\n---------\nFollow us on social media: \nFACEBOOK: https://www.facebook.com/expedia\nTWITTER: https://twitter.com/Expedia\nINSTAGRAM: https://instagram.com/expedia/\nPINTEREST: https://www.pinterest.com/expedia"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "10734786",
+        "likeCount": "56214"
+      }
+    },
+
+    {
+      "kind": "youtube#video",
+      "rank": 9,
+      "etag": "o8Sz3r57xQyMIYrlQb3IT5A64ic",
+      "id": "ODuEl4oNae0",
+      "snippet": {
+        "publishedAt": "2019-11-10",
+        "channelId": "UCvK4bOhULCpmLabd2pDMtnA",
+        "profileimage": "https://yt3.ggpht.com/a/AATXAJy_uCep12yVyu5Rh9pKxqjNWJY2KVjFKqYv2RRSXQ=s88-c-k-c0x00ffffff-no-rj",
+        "title": "Traveling to the Least Visited Country in the World",
+        "description": "Do you know what the least visited country in the world is?! My experience there was incredibly surprising.\nGet 2 months of Skillshare completely free by using this link!! https://skl.sh/yestheory16\nThank you to Skillshare for sponsoring this video! \n\nYep, I travelled to what the internet deems the least visited country in the world. The reality is that the statistics behind this are far from perfect. Many of these small countries don't actually count how many people come visit. So it's very hard to really tell which country truly has the least visitors. Either way, I went to Tuvalu, which is somewhere in the bottom of the list... and my experience was shocking.\n\nIf you want to join the Yes Fam Facebook group which is 80,000+ of our most engaged and badass community members, you can apply here: https://www.facebook.com/groups/15653...\n\nPERFECT ROYALTY FREE MUSIC FOR YOUTUBE: free 30 day trial here: http://share.epidemicsound.com/wFFbr \n\nMusicbed has amazing montage and cinematic music:\nhttp://share.mscbd.fm/YesTheory\n\nFor an amazing b-roll and footage library, checkout: http://storyblocks.com/YesTheory\n\nYes Theory Spotify Playlist: \nhttps://open.spotify.com/user/t-boogy...\n\nExclusive challenges on Instagram: https://www.instagram.com/yestheory/\n\nWho are we? \nWe believe that life can be as fulfilling as you wish, so long as you're willing to seek discomfort. And we make videos about it.\n\nBusiness Inquiries: zack@yestheory.com\n\nhttps://www.instagram.com/yestheory/\nhttps://twitter.com/yestheory\nhttps://www.facebook.com/yestheory/\n\nHosts: Thomas Brag, Ammar Kandil, Matt Dajer\nEditors: Thomas Brag, Thomas Dajer, Cam Peddle, Bryce Perry",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ODuEl4oNae0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ODuEl4oNae0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ODuEl4oNae0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ODuEl4oNae0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ODuEl4oNae0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yes Theory",
+        "tags": [
+          "yestheory",
+          "seek discomfort",
+          "least visited country in the world",
+          "drew binsky",
+          "yes theory travel",
+          "yes theory spinning the globe",
+          "what's the least visited country in the world",
+          "travel tips",
+          "remote travel",
+          "french Polynesia",
+          "tropic paradise",
+          "beautiful destinations",
+          "incredible islands",
+          "beautiful islands",
+          "yes fam",
+          "yes theory strangers",
+          "solo travel",
+          "solo travel tips",
+          "how to travel alone",
+          "south pacific islands",
+          "smallest country in the world",
+          "most remote country in the world",
+          "travel"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Traveling to the Least Visited Country in the World",
+          "description": "Do you know what the least visited country in the world is?! My experience there was incredibly surprising.\nGet 2 months of Skillshare completely free by using this link!! https://skl.sh/yestheory16\nThank you to Skillshare for sponsoring this video! \n\nYep, I travelled to what the internet deems the least visited country in the world. The reality is that the statistics behind this are far from perfect. Many of these small countries don't actually count how many people come visit. So it's very hard to really tell which country truly has the least visitors. Either way, I went to Tuvalu, which is somewhere in the bottom of the list... and my experience was shocking.\n\nIf you want to join the Yes Fam Facebook group which is 80,000+ of our most engaged and badass community members, you can apply here: https://www.facebook.com/groups/15653...\n\nPERFECT ROYALTY FREE MUSIC FOR YOUTUBE: free 30 day trial here: http://share.epidemicsound.com/wFFbr \n\nMusicbed has amazing montage and cinematic music:\nhttp://share.mscbd.fm/YesTheory\n\nFor an amazing b-roll and footage library, checkout: http://storyblocks.com/YesTheory\n\nYes Theory Spotify Playlist: \nhttps://open.spotify.com/user/t-boogy...\n\nExclusive challenges on Instagram: https://www.instagram.com/yestheory/\n\nWho are we? \nWe believe that life can be as fulfilling as you wish, so long as you're willing to seek discomfort. And we make videos about it.\n\nBusiness Inquiries: zack@yestheory.com\n\nhttps://www.instagram.com/yestheory/\nhttps://twitter.com/yestheory\nhttps://www.facebook.com/yestheory/\n\nHosts: Thomas Brag, Ammar Kandil, Matt Dajer\nEditors: Thomas Brag, Thomas Dajer, Cam Peddle, Bryce Perry"
+        }
+      },
+      "statistics": {
+        "viewCount": "10611632",
+        "likeCount": "589862"
+      }
+    }
+  ]
+}

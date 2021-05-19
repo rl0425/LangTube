@@ -1,0 +1,310 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "3qie-o_y285QbfAE4dQOGmEbFTY",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "snippet": {
+        "title": "PANJI PETUALANG TV",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxerwdQo0nZAPE8EBf4WXkO36ehcCbp4W2Eokklew=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxerwdQo0nZAPE8EBf4WXkO36ehcCbp4W2Eokklew=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxerwdQo0nZAPE8EBf4WXkO36ehcCbp4W2Eokklew=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "PANJI PETUALANG TV"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "8000000"
+      },
+      "id": "animal1",
+      "rank": 0
+    },
+    {
+      "snippet": {
+        "title": "Sidul Tube",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxDb-HVZ1LYOMOgHcLBIIZoHUHlYmCbcxhh-nP0yA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxDb-HVZ1LYOMOgHcLBIIZoHUHlYmCbcxhh-nP0yA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxDb-HVZ1LYOMOgHcLBIIZoHUHlYmCbcxhh-nP0yA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Sidul Tube"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "6000000"
+      },
+      "id": "animal2",
+      "rank": 1
+    },
+    {
+      "snippet": {
+        "title": "deHakims",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxxBsrk9nYsL0FoWVSDKokG_dAXlJ5qcJ-qs9Z1=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxxBsrk9nYsL0FoWVSDKokG_dAXlJ5qcJ-qs9Z1=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxxBsrk9nYsL0FoWVSDKokG_dAXlJ5qcJ-qs9Z1=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "deHakims"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "5800000"
+      },
+      "id": "animal3",
+      "rank": 2
+    },
+    {
+      "snippet": {
+        "title": "크림히어로즈",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy4y5PcoHfyNWASHltb2cLKhl3OutJ3H_jJ3c5QpQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy4y5PcoHfyNWASHltb2cLKhl3OutJ3H_jJ3c5QpQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy4y5PcoHfyNWASHltb2cLKhl3OutJ3H_jJ3c5QpQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "크림히어로즈"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "3800000"
+      },
+      "id": "animal4",
+      "rank": 3
+    },
+    {
+      "snippet": {
+        "title": "Wilderness TV",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxIdS3DbMDuIxXQqv43bb94rv7DUVVac0wOwqCkoQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxIdS3DbMDuIxXQqv43bb94rv7DUVVac0wOwqCkoQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxIdS3DbMDuIxXQqv43bb94rv7DUVVac0wOwqCkoQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Wilderness TV"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "3600000"
+      },
+      "id": "animal5",
+      "rank": 4
+    },
+    {
+      "snippet": {
+        "title": "SBS TV동물농장x애니멀봐",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwngFyeaW4u2PPml8Rqx2CgP7zcixTizgH39C1_G2iw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwngFyeaW4u2PPml8Rqx2CgP7zcixTizgH39C1_G2iw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwngFyeaW4u2PPml8Rqx2CgP7zcixTizgH39C1_G2iw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SBS TV동물농장x애니멀봐"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "3600000"
+      },
+      "id": "animal6",
+      "rank": 5
+    },
+    {
+      "snippet": {
+        "title": "OAUJUN HI-END",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzy_QNNW9s5ZS-W2C7FgIpbOR1LeWm-QF2P0skVBw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzy_QNNW9s5ZS-W2C7FgIpbOR1LeWm-QF2P0skVBw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzy_QNNW9s5ZS-W2C7FgIpbOR1LeWm-QF2P0skVBw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "OAUJUN HI-END"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "2800000"
+      },
+      "id": "animal7",
+      "rank": 6
+    },
+    {
+      "snippet": {
+        "title": "Hewan Populer",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwxaaoOGkjgt9X3mqMg2sUFVTkSD9NZ9Trxt_nA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwxaaoOGkjgt9X3mqMg2sUFVTkSD9NZ9Trxt_nA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwxaaoOGkjgt9X3mqMg2sUFVTkSD9NZ9Trxt_nA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Hewan Populer"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "2600000"
+      },
+      "id": "animal8",
+      "rank": 7
+    },
+    {
+      "snippet": {
+        "title": "Kittisaurus",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzXFDzx7T9oZCUsk1UosgS5Pt3CF8kSbGcgQSWAIA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzXFDzx7T9oZCUsk1UosgS5Pt3CF8kSbGcgQSWAIA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzXFDzx7T9oZCUsk1UosgS5Pt3CF8kSbGcgQSWAIA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Kittisaurus"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "2600000"
+      },
+      "id": "animal9",
+      "rank": 8
+    },
+    {
+      "snippet": {
+        "title": "Alshad Ahmad",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxOa7ja2tVnoddRSTOmXmdWtijjzwUrfoJJharuRw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxOa7ja2tVnoddRSTOmXmdWtijjzwUrfoJJharuRw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJxOa7ja2tVnoddRSTOmXmdWtijjzwUrfoJJharuRw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Alshad Ahmad"
+        }
+      },
+      "statistics": {
+        "subscriberCount": "2000000"
+      },
+      "id": "animal10",
+      "rank": 9
+    }
+  ]
+}
