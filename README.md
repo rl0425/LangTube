@@ -1,5 +1,7 @@
 # LangTube
 
+![image01](https://user-images.githubusercontent.com/60688877/119193616-d7149380-babc-11eb-8037-d39580915e30.png)
+
 YouTube API를 이용한 동영상과 채널 추천 및 부가 기능 제공 서비스
 
 ## Features
